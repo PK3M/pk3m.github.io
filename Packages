@@ -1,0 +1,11 @@
+Package: com.kurrt.safeshutdownccmodule
+Version: 1.60
+Section: PK3M
+Maintainer: PK3M Supported
+Architecture: iphoneos-arm
+Filename: ./debs/safeshutdown_1.60.deb
+Size: 9327236
+MD5sum: 06a71b14c2e6fc5585d323d2cc118340
+Description: PK3M
+Name: safeshutdown_1.60
+Author: PK3M Upload
