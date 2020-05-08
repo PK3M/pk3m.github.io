@@ -1,8 +1,8 @@
-Package: com.fakeiosactiveiccid
+Package: Fake IOS Active ICCID
 Name: Fake IOS Active ICCID
 Version: 1.2
 Architecture: iphoneos-arm
-Description: Ho tro fake iOS de ghep sim iPhone lock voi ICCID
+Description: Hỗ trợ fake iOS để ghép sim iPhone lock với ICCID
 PK3M: 622/28 Cong Hoa, P.13, Q.Tan Binh, TPHCM, Viet Nam
 Zalo/Facebook: +84.939.333326
 Cung cấp sim ghép, phụ kiện sạc, cáp, tai nghe, PDP, Pin Con Trâu…
@@ -16,4 +16,3 @@ Maintainer: PK3M Supported
 Filename: ./debs/com.fakeiosactiveiccid_1.2_iphoneos-arm.deb
 Size: 1602
 MD5sum: b3c718061b76070225ec851e31a474fe
-
