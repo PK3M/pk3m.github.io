@@ -1,12 +1,13 @@
-Package: com.yourepo.haphung.fakeiosactiveiccid
+Package: com.fakeiosactiveiccid
 Name: Fake IOS Active ICCID
 Version: 1.2
 Architecture: iphoneos-arm
-Description: H? tr? fake iOS ð? ghép sim fix full iPhone lock v?i ICCID
+Description: Ho tro fake iOS de ghep sim fix full iPhone lock voi ICCID
 Author: Ha Phung <ngocha2006.dd@gmail.com>
-Section: Addons
+Section: PK3M
 Depends: firmware (>= 5.0)
 Maintainer: PK3M Supported
-Filename: ./debs/com.yourepo.haphung.fakeiosactiveiccid_1.2_iphoneos-arm.deb
+Filename: ./debs/com.fakeiosactiveiccid_1.2_iphoneos-arm.deb
 Size: 1602
 MD5sum: b3c718061b76070225ec851e31a474fe
+

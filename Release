@@ -1,9 +1,9 @@
-Origin: com.yourepo.haphung.fakeiosactiveiccid
+Origin: PK3M Supported
 Label: Ha Phung
 Suite: stable
 Version: 1.2
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: H? tr? fake iOS ð? ghép sim fix full iPhone lock v?i ICCID
+Description: Ho tro fake iOS de ghep sim fix full iPhone lock voi ICCID
 

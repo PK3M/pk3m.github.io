@@ -14,16 +14,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>PK3M</o:Author>
   <o:LastAuthor>PK3M</o:LastAuthor>
-  <o:Revision>5</o:Revision>
+  <o:Revision>7</o:Revision>
   <o:TotalTime>2</o:TotalTime>
   <o:Created>2020-05-08T07:13:00Z</o:Created>
-  <o:LastSaved>2020-05-08T07:15:00Z</o:LastSaved>
+  <o:LastSaved>2020-05-08T07:46:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>27</o:Words>
-  <o:Characters>158</o:Characters>
-  <o:Lines>1</o:Lines>
+  <o:Words>62</o:Words>
+  <o:Characters>357</o:Characters>
+  <o:Lines>2</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>184</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>418</o:CharactersWithSpaces>
   <o:Version>14.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -378,23 +378,33 @@ div.WordSection1
 
 <div class=WordSection1>
 
-<p class=MsoNormal># PH<span lang=EN-US style='mso-ansi-language:EN-US'>U KIEN
-3 MIEN</span>: </p>
+<p class=MsoNormal># PH&#7908; KI&#7878;N 3 MI&#7872;N: <o:p></o:p></p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal>PK3M: 622/28 Cong Hoa, P.13, Q.Tan Binh, TPHCM, Viet Nam</p>
+<p class=MsoNormal>PK3M: 622/28 Cong Hoa, P.13, Q.Tan Binh, TPHCM, Viet Nam<o:p></o:p></p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal>Zalo/Facebook: +84.939.333326</p>
+<p class=MsoNormal>Zalo/Facebook: +84.939.333326<o:p></o:p></p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal>Cung c<span lang=EN-US style='mso-ansi-language:EN-US'>a</span>p
-sim gh<span lang=EN-US style='mso-ansi-language:EN-US'>e</span>p, ph<span
-lang=EN-US style='mso-ansi-language:EN-US'>u kien, sac, cap, tai nge, Pin Con
-Trau, Pin Pisen</span>...</p>
+<p class=MsoNormal>Cung c&#7845;p sim gh&eacute;p, ph&#7909; ki&#7879;n s&#7841;c,
+c&aacute;p, tai nghe, PDP, Pin Con Tr&acirc;u...<o:p></o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>B&#7843;ng gi&aacute; s&#7881;:
+https://docs.google.com/spreadsheets/d/1yurWOFbxUPkgrYpK8wAbDxK-2wDG9ysz8z7sM09ybIA/edit#gid=224358258<o:p></o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>PK3M Shop: Provide Unlock Chip (Gevey Sim) - Bypass iCloud <o:p></o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>Youtube Channel: https://www.youtube.com/c/PK3MChanel/Videos</p>
 
 </div>
 
