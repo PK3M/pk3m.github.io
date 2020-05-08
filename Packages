@@ -2,7 +2,7 @@ Package: Fake IOS Active ICCID
 Name: Fake IOS Active ICCID
 Version: 1.2
 Architecture: iphoneos-arm
-Description: Hỗ trợ fake iOS để ghép sim iPhone lock với ICCID. Phụ Kiện 3 Miền (PK3M: +84.939.333326): Cung cấp sim ghép, phụ kiện sạc, cáp, tai nghe, PDP, Pin Con Trâu, pin Pisen…
+Description: Ho tro fake ios de ghep sim vơi ICCID
 Author: Ha Phung <ngocha2006.dd@gmail.com>
 Section: PK3M
 Depends: firmware (>= 5.0)
