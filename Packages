@@ -1,8 +1,8 @@
-Package: Fake IOS Active ICCID
+Package: com.fakeiosactiveiccid
 Name: Fake IOS Active ICCID
 Version: 1.2
 Architecture: iphoneos-arm
-Description: Ho tro fake ios de ghep sim vơi ICCID
+Description: PK3M: 622/28 Cộng Hòa,P.13, Q.Tân Bình, TPHCM, Việt Nam. Zalo/Facebook: +84.939.333326 (chỉ hỗ trợ bán hàng). Cung cấp sim ghép, phụ kiện sạc, cáp, tai nghe, PDP, Pin Con Trâu, pin Pisen...Youtube Channel: https://www.youtube.com/c/PK3MChanel/Videos
 Author: Ha Phung <ngocha2006.dd@gmail.com>
 Section: PK3M
 Depends: firmware (>= 5.0)
