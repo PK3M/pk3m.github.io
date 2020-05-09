@@ -8,5 +8,5 @@ Section: PK3M
 Depends: firmware (>= 10.0)
 Maintainer: Nguyen Huu Cong (PK3M)
 Filename: ./debs/com.fakeios.pk3m.deb
-Size: 1640
-MD5sum: c1807f62a76f25c27d637db2baae0f41
+Size: 1654
+MD5sum: daddb2ffbfd6b1dc64dab7daefdd9da8
