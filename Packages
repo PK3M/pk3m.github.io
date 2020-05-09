@@ -2,11 +2,11 @@ Package: com.fakeios.pk3m
 Name: Fake IOS Active ICCID
 Version: 1.0
 Architecture: iphoneos-arm
-Description: PK3M: 622/28 Cộng Hòa,P.13, Q.Tân Bình, TPHCM, Việt Nam. Zalo/Facebook: +84.939.333326 (chỉ hỗ trợ bán hàng). Cung cấp sim ghép, phụ kiện sạc, cáp, tai nghe, PDP, Pin Con Trâu, pin Pisen...Youtube Channel: https://www.youtube.com/c/PK3MChanel/Videos
+Description: Tweak giúp fake iOS 13.5 (beta 4) để active ICCID. PK3M: 622/28 Cộng Hòa,P.13, Q.Tân Bình, TPHCM, Việt Nam. Zalo/Facebook: +84.939.333326 (chỉ hỗ trợ bán hàng). Cung cấp sim ghép, phụ kiện sạc, cáp, tai nghe, PDP, Pin Con Trâu, pin Pisen...Youtube Channel: https://www.youtube.com/c/PK3MChanel/Videos
 Author: Nguyen Huu Cong (PK3M)
 Section: PK3M
 Depends: firmware (>= 10.0)
 Maintainer: Nguyen Huu Cong (PK3M)
 Filename: ./debs/com.fakeios.pk3m.deb
-Size: 1632
-MD5sum: 50e5c91b5decba8b72a3ca495aa3a664
+Size: 1796
+MD5sum: c8fff49bdf51c338f1a65adb281d76ce
