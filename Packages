@@ -1,4 +1,4 @@
-Package: com.fakeiosactiveiccid
+Package: com.fakeios.pk3m
 Name: Fake IOS Active ICCID
 Version: 1.0
 Architecture: iphoneos-arm
@@ -7,6 +7,6 @@ Author: Nguyen Huu Cong (PK3M)
 Section: PK3M
 Depends: firmware (>= 10.0)
 Maintainer: Nguyen Huu Cong (PK3M)
-Filename: ./debs/com.fakeiosactiveiccid_1.0_iphoneos-arm.deb
-Size: 2045
-MD5sum: 9d98d890f5cc44ee7cb46450b638486f
+Filename: ./debs/com.fakeios.pk3m.deb
+Size: 1640
+MD5sum: c1807f62a76f25c27d637db2baae0f41
