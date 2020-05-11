@@ -4,9 +4,128 @@ Version: 1.0
 Architecture: iphoneos-arm
 Description: Tweak giúp fake iOS 13.5 (beta 4) để active ICCID. Hướng dẫn như sau: 1. Jailbreak máy và install Cydia --> 2. Add source : pk3m.github.io --> 3. Vào source và install Tweak Fake iOS Active ICCID --> 4. Reboot và gắn sim ghép active ICCID --> 5. Jailbreak, open Cydia and remove Tweak --> 6.Reboot. Done.
 Author: Nguyen Huu Cong (PK3M)
-Section: PK3M
+Section: System
 Depends: firmware (>= 10.0)
 Maintainer: Nguyen Huu Cong (PK3M)
 Filename: ./debs/com.fakeios.pk3m.deb
 Size: 1796
 MD5sum: c8fff49bdf51c338f1a65adb281d76ce
+
+Package: com.kurrt.safeshutdown
+Version: 1.60
+Priority: optional
+Section: Tweaks
+Maintainer: Nguyen Huu Cong (PK3M)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0), ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Filename: ./debs/safeshutdown_1.60_iphoneos-arm.deb
+Size: 9327236
+MD5sum: 06a71b14c2e6fc5585d323d2cc118340
+SHA1: 35c3fe1f7a59245d97c34806a3a4ac404ca31e07
+SHA256: 30ac7c322af44e27f627bb7eb6b65b74d2ee85a41b5ce0f07f895d2e102a1126
+Name: SafeShutdown_1.60_Full
+Icon: file:///Library/PreferenceBundles/SafeShutdownPrefs.bundle/icons/safeshutdown@2x.png
+Author: Kurrt
+Description: Hỗ trợ trong việc tắt nguồn tạm thời cho giải pháp Bypass iCloud miễn phí từ iOS 13.3 trở về sau. Lưu ý đừng để hết pin vì hết pin có phần mềm này cũng không làm được gì. Để tránh xung đột dẫn đến lỗi các bạn nên gỡ hết các bản SafeShutdown đã cài trước đó. Chúc thành công!
+
+Package: com.ichitaso.otadisabler
+Identifier: com.ichitaso.otadisabler
+Version: 0.1-7
+Section: System
+Maintainer: Nguyen Huu Cong (PK3M)
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ichitaso.otadisabler_0.1-7_iphoneos-arm.deb
+Size: 24350
+MD5sum: f396c8ff22030f444031327ee35d8240
+Name: Otadisabler_0.1-7
+Author: ichitaso
+Description: Hỗ trợ chặn cập nhật iOS9 tới iOS 13.x. Trước tiên bắt buộc phải xoá phiên bản iOS mới đã được tải về trước đó trong Cài đặt – Cài đặt chung – Dung lượng iPhone [iPad]. Sau đó cài đặt OTAdisabler, nhấn nút respring sau khi cài xong. Chúc thành công!
+
+Package: libactivator
+Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~beta7), com.rpetrich.rocketbootstrap (>= 1.0.9)
+Name: Activator
+Priority: optional
+Architecture: iphoneos-arm
+Description: Centralized gestures, button and shortcut management for iOS
+Homepage: http://phukien3mien.net/
+Depiction: https://www.youtube.com/c/PK3MChanel/Videos
+Maintainer: Nguyen Huu Cong (PK3M)
+Author: Ryan Petrich <rpetrich+activator@gmail.com>
+Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
+Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
+Section: System
+dev: rpetrich
+Icon: file:///Applications/Activator.app/Icon-Small-modern@2x.png
+Version: 1.9.13~beta9
+Installed-Size: 4812
+Filename: ./debs/libactivator_1.9.13_beta9_iphoneos-arm.deb
+MD5sum: f4afbf2842d26bb91693d533aab85f7f
+SHA1: a40ea336b24634f4811045b9a7be8761ce455b2a
+SHA256: d6d2d528986beb2636dda2f775dfa277fc4f72bcfb087943b9b353b8aeb38d4f
+Size: 884264
+
+Package: com.a3tweaks.flipswitch
+Name: Flipswitch
+Depends: mobilesubstrate (>= 0.9.5001), com.rpetrich.rocketbootstrap (>= 1.0.9) | firmware (<< 7.0)
+Conflicts: com.rpetrich.donotdisturbtoggle (<= 1.0-1), com.jerryen.rotationlockflipswitch
+Replaces: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Provides: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Architecture: iphoneos-arm
+Description: Centralized toggle system for iOS
+Homepage: https://rpetri.ch/cydia/flipswitch/beta/
+Depiction: https://rpetri.ch/cydia/flipswitch/beta/
+Author: rpetrich <rpetrich+flipswitch@gmail.com>
+Maintainer: rpetrich & a3tweaks <rpetrich+flipswitch@gmail.com>
+Section: System
+Tag: purpose::extension, role::developer
+Icon: file:///Applications/Preferences.app/icon-table.png
+dev: flipswitch
+Version: 1.0.16~beta7
+Installed-Size: 2408
+Filename: ./debs/com.a3tweaks.flipswitch_1.0.16_beta7_iphoneos-arm.deb
+MD5sum: 6907310f2ff7e34df9d81124be748ef1
+SHA1: cda8be690e90574ea677e2c9248730dad98bf869
+SHA256: 26367bc67a5c9eaf5f354070ef95b2a6748e485a11338082d324a6557231bde6
+Size: 297264
+
+Package: com.rpetrich.rocketbootstrap
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Name: RocketBootstrap
+Architecture: iphoneos-arm
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: rpetrich
+Tag: purpose::extension, role::developer
+Version: 1.0.9
+Installed-Size: 596
+Filename: ./debs/com.rpetrich.rocketbootstrap_1.0.9_iphoneos-arm.deb
+MD5sum: 612e3c55752ee8cfc631e341c5618795
+SHA1: 6c2cb0c69f77b84090f76ebfa909bf64e40b11b9
+SHA256: 1f6aed403c557eec1ac93bdb2fc50fe5e9808f230783480ea488a2f42880642f
+Size: 37192
+
+Package: preferenceloader
+Name: PreferenceLoader
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: load preferences in style
+Maintainer: Dustin Howett <cydia.pl@relay.howett.net>
+Author: Dustin Howett <cydia.pl@relay.howett.net>
+Section: System
+dev: dustinhowett
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Tag: role::hacker, purpose::library
+Version: 2.2.4~beta1
+Installed-Size: 532
+Filename: ./debs/preferenceloader_2.2.4_beta1_iphoneos-arm.deb
+MD5sum: 61efed5a8aa8507208731da2d737c882
+SHA1: 5c180113d9fc6263cf30700a725dacb92b546218
+SHA256: d395cfb1d8dd56f984df50dc0db33746e3e1e72f311be5bad3f4235342b21b90
+Size: 33838

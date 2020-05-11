@@ -1,8 +1,62 @@
-Origin: PK3M Supported
+Origin: PK3M Support
 Label: Nguyen Huu Cong
 Suite: stable
 Version: 1.0
 Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: PK3M: 622/28 Cộng Hòa, P.13, Q.Tân Bình, TPHCM, Việt Nam. Zalo/Facebook: +84.939.333326 (chỉ hỗ trợ bán hàng). Cung cấp sim ghép, phụ kiện sạc, cáp, tai nghe, PDP, Pin Con Trâu, pin Pisen...Youtube Channel: https://www.youtube.com/c/PK3MChanel/Videos
+
+Origin: PK3M Support
+Label: Kurrt
+Suite: stable
+Version: 1.60
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: PK3M: 622/28 Cộng Hòa, P.13, Q.Tân Bình, TPHCM, Việt Nam. Zalo/Facebook: +84.939.333326 (chỉ hỗ trợ bán hàng). Cung cấp sim ghép, phụ kiện sạc, cáp, tai nghe, PDP, Pin Con Trâu, pin Pisen...Youtube Channel: https://www.youtube.com/c/PK3MChanel/Videos
+
+Origin: PK3M Support
+Label: ichitaso
+Suite: stable
+Version: 0.1-7
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: PK3M: 622/28 Cộng Hòa, P.13, Q.Tân Bình, TPHCM, Việt Nam. Zalo/Facebook: +84.939.333326 (chỉ hỗ trợ bán hàng). Cung cấp sim ghép, phụ kiện sạc, cáp, tai nghe, PDP, Pin Con Trâu, pin Pisen...Youtube Channel: https://www.youtube.com/c/PK3MChanel/Videos
+
+Origin: PK3M Support
+Label: Ryan Petrich
+Suite: stable
+Version: 1.9.13~beta9
+Codename: tangelo
+Architectures: iphoneos-arm
+Components: main
+Description: PK3M: 622/28 Cộng Hòa, P.13, Q.Tân Bình, TPHCM, Việt Nam. Zalo/Facebook: +84.939.333326 (chỉ hỗ trợ bán hàng). Cung cấp sim ghép, phụ kiện sạc, cáp, tai nghe, PDP, Pin Con Trâu, pin Pisen...Youtube Channel: https://www.youtube.com/c/PK3MChanel/Videos
+
+Origin: PK3M Support
+Label: flipswitch
+Suite: stable
+Version: 1.0.16~beta7
+Codename: tangelo
+Architectures: iphoneos-arm
+Components: main
+Description: PK3M: 622/28 Cộng Hòa, P.13, Q.Tân Bình, TPHCM, Việt Nam. Zalo/Facebook: +84.939.333326 (chỉ hỗ trợ bán hàng). Cung cấp sim ghép, phụ kiện sạc, cáp, tai nghe, PDP, Pin Con Trâu, pin Pisen...Youtube Channel: https://www.youtube.com/c/PK3MChanel/Videos
+
+Origin: PK3M Support
+Label: RocketBootstrap
+Suite: stable
+Version: 1.0.9
+Codename: tangelo
+Architectures: iphoneos-arm
+Components: main
+Description: PK3M: 622/28 Cộng Hòa, P.13, Q.Tân Bình, TPHCM, Việt Nam. Zalo/Facebook: +84.939.333326 (chỉ hỗ trợ bán hàng). Cung cấp sim ghép, phụ kiện sạc, cáp, tai nghe, PDP, Pin Con Trâu, pin Pisen...Youtube Channel: https://www.youtube.com/c/PK3MChanel/Videos
+
+Origin: PK3M Support
+Label: PreferenceLoader
+Suite: stable
+Version: 2.2.4~beta1
+Codename: tangelo
 Architectures: iphoneos-arm
 Components: main
 Description: PK3M: 622/28 Cộng Hòa, P.13, Q.Tân Bình, TPHCM, Việt Nam. Zalo/Facebook: +84.939.333326 (chỉ hỗ trợ bán hàng). Cung cấp sim ghép, phụ kiện sạc, cáp, tai nghe, PDP, Pin Con Trâu, pin Pisen...Youtube Channel: https://www.youtube.com/c/PK3MChanel/Videos
