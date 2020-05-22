@@ -1,5 +1,5 @@
 Package: com.fakeios.pk3m
-Name: Fake IOS Active ICCID
+Name: Fake iOS Active ICCID v1.0
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Tweak giúp fake iOS 13.5 (beta 4) để active ICCID. Hướng dẫn như sau: 1. Jailbreak máy và install Cydia --> 2. Add source : pk3m.github.io --> 3. Vào source và install Tweak Fake iOS Active ICCID --> 4. Reboot và gắn sim ghép active ICCID --> 5. Jailbreak, open Cydia and remove Tweak --> 6.Reboot. Done.
@@ -15,6 +15,7 @@ Package: com.kurrt.safeshutdown
 Version: 1.60
 Priority: optional
 Section: Tweaks
+Icon: file:///Library/PreferenceBundles/SafeShutdownPrefs.bundle/icons/safeshutdown@2x.png
 Maintainer: Nguyen Huu Cong (PK3M)
 Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0), ws.hbang.common (>= 1.11)
 Architecture: iphoneos-arm
@@ -24,7 +25,6 @@ MD5sum: 06a71b14c2e6fc5585d323d2cc118340
 SHA1: 35c3fe1f7a59245d97c34806a3a4ac404ca31e07
 SHA256: 30ac7c322af44e27f627bb7eb6b65b74d2ee85a41b5ce0f07f895d2e102a1126
 Name: SafeShutdown_1.60_Full
-Icon: file:///Library/PreferenceBundles/SafeShutdownPrefs.bundle/icons/safeshutdown@2x.png
 Author: Kurrt
 Description: Hỗ trợ trong việc tắt nguồn tạm thời cho giải pháp Bypass iCloud miễn phí từ iOS 13.3 trở về sau. Lưu ý đừng để hết pin vì hết pin có phần mềm này cũng không làm được gì. Để tránh xung đột dẫn đến lỗi các bạn nên gỡ hết các bản SafeShutdown đã cài trước đó. Chúc thành công!
 
@@ -111,6 +111,7 @@ SHA256: 1f6aed403c557eec1ac93bdb2fc50fe5e9808f230783480ea488a2f42880642f
 Size: 37192
 
 Package: preferenceloader
+Identifier: preferenceloader
 Name: PreferenceLoader
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
@@ -129,3 +130,18 @@ MD5sum: 61efed5a8aa8507208731da2d737c882
 SHA1: 5c180113d9fc6263cf30700a725dacb92b546218
 SHA256: d395cfb1d8dd56f984df50dc0db33746e3e1e72f311be5bad3f4235342b21b90
 Size: 33838
+
+Package: com.pk3m.fakeios101
+Name: Fake iOS Active ICCID v1.01
+Version: 1.01
+Architecture: iphoneos-arm
+Description: Tweak giúp fake iOS 13.5 (final) để active ICCID. Hướng dẫn như sau: 1. Jailbreak máy và install Cydia --> 2. Add source : pk3m.github.io --> 3. Vào source và install Tweak Fake iOS Active ICCID --> 4. Reboot và gắn sim ghép active ICCID --> 5. Jailbreak, open Cydia and remove Tweak --> 6.Reboot. Done.
+Author: Nguyen Huu Cong (PK3M)
+Section: System
+Depends: firmware (>= 10.0)
+Maintainer: Nguyen Huu Cong (PK3M)
+Filename: ./debs/com.pk3m.fakeios_1.01_135final.deb
+Size: 1780
+MD5sum: 4e57fb13b1700ab76c3402b08e82cae1
+SHA1: 77487bfb1ab85ccaed2c5e60f6daa356e909d9ca
+SHA256: 101303d46a670a80346e020a3476117cc316d090433e1a530c5e6a4185519f39
