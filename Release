@@ -1,20 +1,11 @@
 Origin: PK3M Support
 Label: Nguyen Huu Cong
 Suite: stable
-Version: 1.0
+Version: 1.02
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: PK3M: 622/28 Cộng Hòa, P.13, Q.Tân Bình, TPHCM, Việt Nam. Zalo/Facebook: +84.939.333326 (chỉ hỗ trợ bán hàng). Cung cấp sim ghép, phụ kiện sạc, cáp, tai nghe, PDP, Pin Con Trâu, pin Pisen...Youtube Channel: https://www.youtube.com/c/PK3MChanel/Videos
-
-Origin: PK3M Support
-Label: Nguyen Huu Cong
-Suite: stable
-Version: 1.01
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: PK3M: 622/28 Cộng Hòa, P.13, Q.Tân Bình, TPHCM, Việt Nam. Zalo/Facebook: +84.939.333326 (chỉ hỗ trợ bán hàng). Cung cấp sim ghép, phụ kiện sạc, cáp, tai nghe, PDP, Pin Con Trâu, pin Pisen...Youtube Channel: https://www.youtube.com/c/PK3MChanel/Videos
+Description: PK3M: 622/28 Cộng Hòa, P.13, Q.Tân Bình, TPHCM, Việt Nam. Zalo/Facebook: +84.939.333326 (chỉ hỗ trợ bán hàng). Cung cấp sim ghép, phụ kiện sạc, cáp, tai nghe, PDP, Pin Con Trâu, pin Pisen...Youtube: PK3M Channel
 
 Origin: PK3M Support
 Label: Kurrt
