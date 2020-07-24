@@ -3,7 +3,7 @@ Name: Fake iOS v1.03 by PK3M
 Version: 1.03
 Architecture: iphoneos-arm
 Description: Fake iOS 14.0 (beta 3). Support iPhone 5/5C/5S/6/6P
-Depiction: https://phukien3mien.github.io/
+Depiction: https://pk3m.github.io/
 Author: Nguyen Huu Cong (PK3M)
 Section: System
 Depends: mobilesubstrate, firmware (>= 5.0)
