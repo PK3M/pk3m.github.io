@@ -13,21 +13,6 @@ Size: 1828
 MD5sum: 57a5bfee6d667b094f91eab94f8e02c5
 SHA1: 94fc42ed62fcfefa42d9eb340eabeefe1ec3ca29
 
-Package: com.pk3m.fakeios103
-Name: Fake iOS v1.03 by PK3M
-Version: 1.03
-Architecture: iphoneos-arm
-Description: Fake iOS 14.0 (beta 3). Support iPhone 5/5C/5S/6/6P
-Depiction: https://pk3m.github.io/
-Author: Nguyen Huu Cong (PK3M)
-Section: System
-Depends: mobilesubstrate, firmware (>= 5.0)
-Maintainer: Nguyen Huu Cong (PK3M)
-Filename: ./debs/com.pk3m.fakeios_1.03.deb
-Size: 1832
-MD5sum: 1a26de87e6cca6a4b4c3f2c86f9d794f
-SHA1: 6b5c11959bf97d1aa5a17d7138445b1f758d1e42
-
 Package: com.kurrt.safeshutdown
 Version: 1.60
 Priority: optional
