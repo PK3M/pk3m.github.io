@@ -1,24 +1,39 @@
-Package: com.pk3m.fakeios105
-Name: Fake iOS v1.05 by PK3M
-Version: 1.05
+Package: com.pk3m.fakeios106
+Name: Fake iOS v1.06 by PK3M
+Version: 1.06
 Architecture: iphoneos-arm
-Description: Fake iOS 14.4 (beta). Support iPhone 5S to X
-Depiction: https://pk3m.github.io/
+Description: Fake iOS 14.5 (beta 3). Support iPhone 5S to 12 ProMax
+Depiction: https://phukien3mien.github.io/
 Author: Nguyen Huu Cong (PK3M)
 Section: System
 Depends: mobilesubstrate, firmware (>= 5.0)
 Maintainer: Nguyen Huu Cong (PK3M)
-Filename: ./debs/com.pk3m.fakeios_1.05.deb
-Size: 1828
-MD5sum: f91e2a58b4043b0675a6a020999ed0de
-SHA1: 9d05a30cab909fd97016a8992c504ce1948e76b9
+Filename: ./debs/com.pk3m.fakeios_1.06.deb
+Size: 1824
+MD5sum: cd6c5f636538a120fa6ba0126622cfc3
+SHA1: 851690f9d313eddaf75d414450381838542be97f
+
+Package: com.pk3m.fakeios106.5g
+Name: Fake iOS for 5-5C v1.06 by PK3M
+Version: 1.06
+Architecture: iphoneos-arm
+Description: Fake iOS 14.5 (beta 3) For 5-5C.
+Depiction: https://phukien3mien.github.io/
+Author: Nguyen Huu Cong (PK3M)
+Section: System
+Depends: mobilesubstrate, firmware (>= 5.0)
+Maintainer: Nguyen Huu Cong (PK3M)
+Filename: ./debs/com.pk3m.fakeios_1.06.5g.deb
+Size: 1796
+MD5sum: aaa137960394a52e1dd2e07fa54c6341
+SHA1: dca0f0065f3a8aa2787151129a249c1734290c17
 
 Package: com.pk3m.fakeios103
 Name: Fake iOS v1.03 by PK3M
 Version: 1.03
 Architecture: iphoneos-arm
 Description: Fake iOS 14.0 (beta 3). Support iPhone 5/5C/5S/6/6P
-Depiction: https://pk3m.github.io/
+Depiction: https://phukien3mien.github.io/
 Author: Nguyen Huu Cong (PK3M)
 Section: System
 Depends: mobilesubstrate, firmware (>= 5.0)
