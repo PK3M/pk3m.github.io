@@ -1,17 +1,17 @@
-Package: com.pk3m.fakeios107
-Name: Fake iOS v1.07 by PK3M
-Version: 1.07
+Package: com.pk3m.fakeios108
+Name: Fake iOS v1.08 by PK3M
+Version: 1.08
 Architecture: iphoneos-arm
-Description: Fake iOS 14.7 (beta). Support iPhone 5S to 12 ProMax
+Description: Fake iOS 15.1 (beta 2). Support iPhone 5S to 12 ProMax
 Depiction: https://pk3m.github.io/
 Author: Nguyen Huu Cong (PK3M)
 Section: System
-Depends: mobilesubstrate, firmware (>= 10.0)
+Depends: mobilesubstrate, firmware (>= 5.0)
 Maintainer: Nguyen Huu Cong (PK3M)
-Filename: ./debs/com.pk3m.fakeios_1.07.deb
-Size: 1824
-MD5sum: e9db72b2363ffb39dbec5f1c2eb8a219
-SHA1: 7922c480299411a89a2679cdfdcd9e7f9962f122
+Filename: ./debs/com.pk3m.fakeios_1.08.deb
+Size: 1812
+MD5sum: 8a08c3f3ac1ff56962028da5dccd79f0
+SHA1: 2fdb9b47f0432ca40d4e72c0efb1fce51c5ced03
 
 Package: com.kurrt.safeshutdown
 Version: 1.60
