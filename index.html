@@ -44,4 +44,25 @@
 	</div>
 </div>
 </body>
+ <script>
+      function myFunction() {
+        // get the OUTER html of the element you want to copy
+        var text = document.getElementById('myInput').outerHTML;
+
+        // put that outerHTML into another textbox for copying
+        var tempTextbox = document.getElementById('copyingText');
+        tempTextbox.value = text;
+
+        tempTextbox.focus();
+        tempTextbox.select();
+        
+        document.execCommand("Copy");
+      }
+    </script>
+    
+  </head>
+  <body>
+    <input type="text" id="copyingText" />
+    <input type="text" value="Copy Test" id="myInput" />
+    <button onclick="myFunction()">Copy text</button>
 </html>
